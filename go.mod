@@ -3,7 +3,7 @@ module github.com/netsec-ethz/scion-apps
 go 1.21
 
 require (
-	github.com/creack/pty v1.1.17
+	github.com/creack/pty v1.1.21
 	github.com/gorilla/handlers v1.5.1
 	github.com/inconshreveable/log15 v0.0.0-20180818164646-67afb5ed74ec
 	github.com/kormat/fmt15 v0.0.0-20181112140556-ee69fecb2656
